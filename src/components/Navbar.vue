@@ -9,9 +9,6 @@
         <router-link tag="li" to="/list" active-class="active">
           <a href="sass.html">List</a>
         </router-link>
-        <router-link tag="li" to="/task" active-class="active">
-          <a href="sass.html">Task</a>
-        </router-link>
       </ul>
     </div>
   </nav>
